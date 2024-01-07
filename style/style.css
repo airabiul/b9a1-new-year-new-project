@@ -1,10 +1,13 @@
+
+/* font-family: 'Merriweather', serif; */
+
 .banner-section {
   background-image: url("/image/Banner\ Image.png");
   background-repeat: no-repeat;
   width: 1320px;
   height: 600px;
   margin: 50px auto;
-}
+  }
 
 .banner-title {
   color: #fff;
