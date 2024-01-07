@@ -1,0 +1,30 @@
+.banner-section {
+  background-image: url("/image/Banner\ Image.png");
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  margin: 50px auto;
+}
+
+.banner-title {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 177px;
+}
+
+.banner-heading{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+padding: 0 0 200px;
+
+}
