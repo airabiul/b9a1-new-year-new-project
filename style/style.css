@@ -49,6 +49,7 @@
 /* catagory-section style start here */
 .catagoris-section {
   background-color: #fff;
+  
 }
 
 .discount {
@@ -81,10 +82,10 @@
 }
 
 .catagoris-section-image {
-  align-items: center;
-  width: 802.9px;
-  height: 500px;
-  margin: 50 auto;
+  justify-content: space-between;
+  /* width: 802.9px;
+  height: 500px; */
+  margin: 0 35%;
 }
 /* catagory-section style end here */
 /* welcome-section style start here */
@@ -156,4 +157,68 @@ button {
 }
 .color {
   color: #f00;
+}
+
+.offer-section {
+  max-width: 1600px;
+  width: 1320px;
+  background-color: #ffefef;
+  margin: 0 auto;
+}
+
+.offer-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 50px;
+}
+.offer-contant {
+}
+
+.offer-title {
+  color: #f00;
+  text-align: left;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.offer-heading {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  text-align: left;
+}
+.offer-desceiption {
+  width: 393px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+}
+.offer-year {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.offer-desceiption2 {
+  width: 276px;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
 }
