@@ -143,6 +143,7 @@ button {
   margin: 50px auto;
 }
 .place-container {
+  text-align: center;
   padding-top: 100px;
   padding-left: 385px;
   padding-right: 385px;
@@ -153,9 +154,11 @@ button {
   font-weight: 600;
   line-height: 56px;
   text-transform: capitalize;
+  align-items: center;
 }
 .color {
   color: #f00;
+ 
 }
 
 .offer-section {
@@ -163,6 +166,7 @@ button {
   width: 1320px;
   background-color: #ffefef;
   margin: 0 auto;
+  margin-bottom: 100px;
 }
 
 .offer-container {
@@ -230,6 +234,7 @@ button {
 }
 /* functional section desing start here */
 .functional-section {
+  
   width: 1320px;
   height: 482px;
   flex-shrink: 0;
@@ -273,21 +278,34 @@ button {
   font-weight: 500;
   line-height: 32px;
 }
-.functional-image{
+.functional-image {
   justify-content: space-between;
   max-width: 1600px;
   height: 482px;
   margin: 0 auto;
-  
 }
-.image-containar{
+.image-containar {
   display: flex;
   justify-content: space-between;
+  max-width: 1400px;
+}
+
+.image1 {
+  width: 400px;
+  height: 400px;
+  padding-top: 30px;
+}
+.image2 {
+  width: 320px;
+  height: 320px;
+  padding-top: 30px;
+  padding-right: 0px;
   
 }
-.image1{
-  padding-right: 140px;
+.image3 {
+  width: 429px;
+  height: 433px;
+ 
 }
 
 /* functional section desing end here */
-
