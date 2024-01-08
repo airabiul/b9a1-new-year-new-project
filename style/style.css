@@ -158,7 +158,6 @@ button {
 }
 .color {
   color: #f00;
- 
 }
 
 .offer-section {
@@ -232,80 +231,4 @@ button {
   border-radius: 50%;
   padding: 20px;
 }
-/* functional section desing start here */
-.functional-section {
-  
-  width: 1320px;
-  height: 482px;
-  flex-shrink: 0;
-  margin: 0 auto;
-}
-.functional-text {
-  text-align: center;
-}
 
-.functional-title {
-  color: #070211;
-  font-family: Inter;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-}
-.functional-heading {
-  color: #070211;
-  font-family: Merriweather;
-  font-size: 72px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: normal;
-}
-.color-holiday {
-  color: #f00;
-  text-align: center;
-  font-family: Merriweather;
-  font-size: 72px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: normal;
-}
-.functional-description {
-  color: rgba(7, 2, 17, 0.6);
-  text-align: center;
-  font-family: Inter;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 32px;
-}
-.functional-image {
-  justify-content: space-between;
-  max-width: 1600px;
-  height: 482px;
-  margin: 0 auto;
-}
-.image-containar {
-  display: flex;
-  justify-content: space-between;
-  max-width: 1400px;
-}
-
-.image1 {
-  width: 400px;
-  height: 400px;
-  padding-top: 30px;
-}
-.image2 {
-  width: 320px;
-  height: 320px;
-  padding-top: 30px;
-  padding-right: 0px;
-  
-}
-.image3 {
-  width: 429px;
-  height: 433px;
- 
-}
-
-/* functional section desing end here */
