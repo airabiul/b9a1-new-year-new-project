@@ -16,7 +16,7 @@
   gap: 10px;
 }
 .banner-section {
-  background-image: url("/image/banner-image.png");
+  background-image: url("../image/banner-image.png");
   background-repeat: no-repeat;
   width: 1320px;
   height: 600px;
