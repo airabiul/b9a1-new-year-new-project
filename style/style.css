@@ -4,7 +4,17 @@
 }
 
 /* font-family: 'Merriweather', serif; */
+/* banner-section style start here */
 
+.btn {
+  border-radius: 8px;
+  background: #f00;
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
 .banner-section {
   background-image: url("/image/Banner\ Image.png");
   background-repeat: no-repeat;
@@ -34,7 +44,9 @@
   line-height: 95px;
   padding: 0 0 200px;
 }
+/* banner-section style end here */
 
+/* catagory-section style start here */
 .catagoris-section {
   background-color: #fff;
 }
@@ -74,7 +86,8 @@
   height: 500px;
   margin: 50 auto;
 }
-
+/* catagory-section style end here */
+/* welcome-section style start here */
 .welcome-section {
   background-image: url("/image/Vectorrr.png");
   background-repeat: no-repeat;
@@ -120,4 +133,27 @@ button {
   padding: 10px;
   border: 0;
   border-radius: 10px;
+}
+/* welcome-section style end here */
+
+.place-section {
+  background-color: #ffefef;
+  width: 1320px;
+  height: 482px;
+  margin: 50px auto;
+}
+.place-container {
+  padding-top: 100px;
+  padding-left: 385px;
+  padding-right: 385px;
+  color: #070211;
+  font-family: Inter;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.color {
+  color: #f00;
 }
