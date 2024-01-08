@@ -89,7 +89,7 @@
 /* catagory-section style end here */
 /* welcome-section style start here */
 .welcome-section {
-  background-image: url("/image/Vectorrr.png");
+  background-image: url("../image/Vectorrr.png");
   background-repeat: no-repeat;
   width: 1320px;
   height: 600px;
