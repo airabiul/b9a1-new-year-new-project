@@ -16,7 +16,7 @@
   gap: 10px;
 }
 .banner-section {
-  background-image: url("../image/banner-image.png");
+  background-image: url("../banner-image.png");
   border-radius: 16px;
   border-radius: 16px;
   background-repeat: no-repeat;
@@ -99,7 +99,7 @@
 /* catagory-section style end here */
 /* welcome-section style start here */
 .welcome-section {
-  background-image: url("../image/Vectorrr.png");
+  background-image: url("../vectorrr.png");
   background-repeat: no-repeat;
   position: relative;
   width: 1320px;
