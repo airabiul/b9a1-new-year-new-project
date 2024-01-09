@@ -377,9 +377,13 @@ button {
   padding-right: 24px;
   padding-bottom: 24px;
 }
+.poritfolio-galary img:hover{
+  background-color: #341fd3;
+}
+
 
 /* portfolio section design end here */
-
+/* subsribe section design start here */
 .subsribe-section {
   display: flex;
   width: 1320px;
@@ -447,7 +451,8 @@ button {
   font-weight: 600;
   line-height: normal;
 }
-
+/* subsribe section design start here */
+/* footer section design start here */
 .footer-section {
   max-width: 1600px;
   height: 609px;
@@ -487,3 +492,4 @@ button {
   text-align: center;
   margin-top: 120px;
 }
+/* footer section design start here */
